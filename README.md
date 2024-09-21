@@ -5,10 +5,13 @@
 # 🛡️ What is CIA Triad?
 
 <p align="center">
-Ref 1: Network Diagram<br/>
-<img src="https://i.imgur.com/VQO9Yfh.png" height="80%" width="80%" alt="CIA Triad"/>
+Ref 1: CIA Triad<br/>
+<img src="https://i.imgur.com/VQO9Yfh.png" height="50%" width="50%" alt="CIA Triad"/>
 <br />
 <br />
+</p>
+<!
+<!--
 Ref 2: Virtual box  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -31,7 +34,7 @@ Ref 6: create the new users   <br/>
 <br />
 Ref 7: show the new user in the GUI  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+-->
 
 
-https://i.imgur.com/VQO9Yfh.png
+
