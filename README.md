@@ -28,6 +28,11 @@ Examples:
 - Access Controls: User authentication mechanisms like passwords, biometrics, or multi-factor authentication (MFA) protect data from being accessed by unauthorized users.
 
 
+Threats to Confidentiality:
+- Phishing attacks: Trick users into revealing passwords or other credentials.
+- Data breaches: Exploiting system vulnerabilities to gain unauthorized access to data.
+
+
 
 ## 🛡️ Integrity
 Integrity ensures that information remains accurate and unaltered. This principle protects data from being tampered with either intentionally or accidentally.
