@@ -16,12 +16,16 @@ Ref 1: CIA Triad<br/>
 The **CIA Triad** is a fundamental model in cybersecurity, which stands for **Confidentiality**, **Integrity**, and **Availability**. These three principles form the foundation of any secure system. Each principle addresses specific aspects of data protection and security, helping to ensure that information systems are robust and secure from unauthorized access, manipulation, or downtime.
 
 ## 🔐 Confidentiality
-Confidentiality ensures that sensitive information is only accessible to those authorized to view it. Protecting confidentiality involves mechanisms such as encryption, access control, and authentication.
+Confidentiality ensures that sensitive information is accessible only to authorized individuals. Its main goal is to prevent unauthorized access or disclosure of data. Protecting confidentiality involves mechanisms such as encryption, access control, and authentication.
 
 - **Key Points:**
   - Data encryption
   - Strong passwords and authentication
   - Role-based access control (RBAC)
+ 
+Examples:
+- Encryption: Encrypting sensitive data (like emails or financial information) ensures that even if intercepted, the data remains unreadable without the decryption key.
+- Access Controls: User authentication mechanisms like passwords, biometrics, or multi-factor authentication (MFA) protect data from being accessed by unauthorized users.
 
 
 
