@@ -55,7 +55,20 @@ Threats to Integrity:
 
 
 ## 🕒 Availability
-Availability ensures that information and resources are accessible when needed. Systems should be designed to withstand disruptions and continue functioning effectively.
+Availability ensures that information and resources are accessible when needed. This involves maintaining system uptime and recovering quickly from failures. The Systems should be designed to withstand disruptions and continue functioning effectively.
+
+Examples:
+- Redundancy: Setting up redundant servers and backups to ensure continuous operation, even in the case of a hardware failure.
+DDoS Protection: Implementing countermeasures like firewalls and load balancers to defend against distributed denial of service (DDoS) attacks that try to overwhelm and shut down a service.
+
+
+Threats to Availability:
+- DDoS Attacks: Flooding servers with traffic, making them unavailable.
+- Natural Disasters: Disruptions from events like earthquakes or floods that affect data centers or communication networks.
+
+
+Conclusion
+By adhering to the CIA Triad, organizations can develop strategies and defenses that ensure their systems are secure. Focusing on Confidentiality, Integrity, and Availability enables balanced protection across different dimensions of security.
 
 - **Key Points:**
   - Redundant systems
