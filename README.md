@@ -11,6 +11,16 @@ Ref 1: CIA Triad<br/>
 <br />
 </p>
 
+### 1. Confidentiality 🔒
+Ensures that sensitive information is not accessed by unauthorized people.
+
+### 2. Integrity ✅
+Guarantees that data is accurate and has not been tampered with.
+
+### 3. Availability ⚙️
+Ensures that information is accessible when needed.
+
+
 <!--
 Ref 2: Virtual box  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
