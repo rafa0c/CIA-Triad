@@ -35,12 +35,22 @@ Threats to Confidentiality:
 
 
 ## 🛡️ Integrity
-Integrity ensures that information remains accurate and unaltered. This principle protects data from being tampered with either intentionally or accidentally.
+Integrity refers to ensuring the accuracy and trustworthiness of data. This principle protects data from being tampered with either intentionally or accidentally during storage transmission, or processing unless authorized changes are made.
 
 - **Key Points:**
   - Hashing
   - Digital signatures
   - Version control systems
+ 
+
+Examples:
+- Checksums and Hashing: Used to ensure that files haven’t been tampered with during transit. If the hash values match on both ends, the file is confirmed to be intact.
+- Version Control: Ensures that any changes to files or data can be tracked and rolled back if necessary.
+
+
+Threats to Integrity:
+- Man-in-the-Middle (MITM) attacks: Attackers intercept and alter data during transmission.
+- Data Corruption: Either due to hardware failure, human error, or malicious actions, which may lead to incorrect data being stored.
 
 
 
