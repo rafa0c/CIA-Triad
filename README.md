@@ -80,10 +80,7 @@ By adhering to the CIA Triad, organizations can develop strategies and defenses 
 ---
 
 ### Summary
-The **CIA Triad** is crucial for maintaining secure information systems. Ensuring **Confidentiality**, **Integrity**, and **Availability** helps organizations protect against data breaches, unauthorized access, and cyber attacks.
-
-
-
+The **CIA Triad** is crucial for maintaining secure information systems. Focusing on **Confidentiality**, **Integrity**, and **Availability** helps organizations protect against data breaches, unauthorized access. The CIA Triad protections across different dimensions of security.
 
 <!--
 Ref 2: Virtual box  <br/>
