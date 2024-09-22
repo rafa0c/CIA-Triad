@@ -102,13 +102,11 @@ Examples:
 - High Availability Clusters: Grouping multiple servers or systems so if one fails, another takes over without disrupting the service.
 
 
-**Conclusion**
-By adhering to the CIA Triad, organizations can develop strategies and defenses that ensure their systems are secure. Focusing on Confidentiality, Integrity, and Availability enables balanced protection across different dimensions of security.
-
 ---
 
 ### Summary
-The **CIA Triad** is crucial for maintaining secure information systems. Focusing on **Confidentiality**, **Integrity**, and **Availability** helps organizations protect against data breaches, unauthorized access. The CIA Triad protections across different dimensions of security.
+
+The **CIA Triad** is a fundamental model in information security that focuses on three essential principles: **Confidentiality**, **Integrity**, and **Availability**. Confidentiality ensures that sensitive information is accessible only to authorized individuals, protecting it from unauthorized access or disclosure through methods like encryption and access controls. Integrity safeguards the accuracy and consistency of data, ensuring it cannot be altered or tampered with, using mechanisms such as hashing, digital signatures, and version control. Availability ensures that systems and data remain accessible and operational when needed, often through redundancy, backups, and failover systems. Together, these principles provide a comprehensive framework for securing information and maintaining its reliability, ensuring that it remains secure, trustworthy, and accessible in any scenario.
 
 <!--
 Ref 2: Virtual box  <br/>
