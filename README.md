@@ -41,9 +41,10 @@ Integrity refers to ensuring the accuracy and trustworthiness of data. This prin
   - Hashing
   - Digital signatures
   - Version control systems
+
  
-  <p align="center">
-Ref 1: CIA Triad<br/>
+<p align="center">
+Ref 2: Encription<br/>
 <img src="https://i.imgur.com/DwiYl1g.png" height="45%" width="45%" alt="CIA Triad"/>
 <br />
 <br />
