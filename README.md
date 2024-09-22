@@ -6,7 +6,7 @@
 
 <p align="center">
 Ref 1: CIA Triad<br/>
-<img` src="https://i.imgur.com/VQO9Yfh.png" height="45%" width="45%" alt="CIA Triad"/>
+<img src="https://i.imgur.com/VQO9Yfh.png" height="45%" width="45%" alt="CIA Triad"/>
 <br />
 <br />
 </p>
