@@ -6,7 +6,7 @@
 
 <p align="center">
 Ref 1: CIA Triad<br/>
-<img src="https://i.imgur.com/VQO9Yfh.png" height="45%" width="45%" alt="CIA Triad"/>
+<img` src="https://i.imgur.com/VQO9Yfh.png" height="45%" width="45%" alt="CIA Triad"/>
 <br />
 <br />
 </p>
@@ -68,7 +68,6 @@ Threats to Integrity:
 - Data Corruption: Either due to hardware failure, human error, or malicious actions, which may lead to incorrect data being stored.
 
 
-
 ## 🕒 Availability
 Availability ensures that information and resources are accessible when needed. This involves maintaining system uptime and recovering quickly from failures. The Systems should be designed to withstand disruptions and continue functioning effectively.
 
@@ -82,15 +81,29 @@ Threats to Availability:
 - Natural Disasters: Disruptions from events like earthquakes or floods that affect data centers or communication networks.
 
 
-Conclusion
-By adhering to the CIA Triad, organizations can develop strategies and defenses that ensure their systems are secure. Focusing on Confidentiality, Integrity, and Availability enables balanced protection across different dimensions of security.
-
 - **Key Points:**
   - Redundant systems
   - Regular backups
   - DDoS protection
 
+<p align="center">
+Ref 2: Encription<br/>
+<img src="https://i.imgur.com/RSfDnTF.png" height="45%" width="45%" alt="CIA Triad"/>
+<br />
+<br />
+</p>
 
+Examples:
+
+- Load Balancers: Distributing network or application traffic across multiple servers to prevent any one system from being overwhelmed and to ensure continued access.
+- Data Backups: Regularly backing up data to recover it quickly in case of hardware failure, cyber-attacks, or natural disasters.
+- Disaster Recovery Plans: Creating and testing disaster recovery plans to restore services quickly after an unexpected interruption such as natural disasters, cyber-attacks and Windows Maintinence.
+- Cloud Services: Using cloud infrastructure to scale resources dynamically and ensure systems remain operational even during high demand.
+- High Availability Clusters: Grouping multiple servers or systems so if one fails, another takes over without disrupting the service.
+
+
+Conclusion
+By adhering to the CIA Triad, organizations can develop strategies and defenses that ensure their systems are secure. Focusing on Confidentiality, Integrity, and Availability enables balanced protection across different dimensions of security.
 
 ---
 
