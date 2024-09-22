@@ -5,7 +5,7 @@
 # 🛡️ What is CIA Triad?
 
 <p align="center">
-*Ref 1: CIA Triad <br/>
+Ref 1: CIA Triad <br/>
 <img src="https://i.imgur.com/VQO9Yfh.png" height="45%" width="45%" alt="CIA Triad"/>
 <br />
 <br />
@@ -24,8 +24,8 @@ Confidentiality ensures that sensitive information is accessible only to authori
   - Role-based access control (RBAC)
  
 <p align="center">
-*Ref 2: Encription* <br/>
-<img src="https://i.imgur.com/DwiYl1g.png" height="45%" width="45%" alt="CIA Triad"/>
+Ref 2: Encription <br/>
+<img src="https://i.imgur.com/DwiYl1g.png" height="45%" width="45%" alt="Encription"/>
 <br />
 <br />
 </p>
@@ -50,8 +50,8 @@ Integrity refers to ensuring the accuracy and trustworthiness of data. This prin
   - Version control systems
 
  <p align="center">
-Ref 2: Encription <br/>
-<img src="https://i.imgur.com/gbIebtj.png" height="45%" width="45%" alt="CIA Triad"/>
+Ref 2: Hash Functiom <br/>
+<img src="https://i.imgur.com/gbIebtj.png" height="45%" width="45%" alt="Hash Function"/>
 <br />
 <br />
 </p>
@@ -87,8 +87,8 @@ Threats to Availability:
   - DDoS protection
 
 <p align="center">
-Ref 2: Encription <br/>
-<img src="https://i.imgur.com/RSfDnTF.png" height="45%" width="45%" alt="CIA Triad"/>
+Ref 3: DDOS Attack <br/>
+<img src="https://i.imgur.com/RSfDnTF.png" height="45%" width="45%" alt="DDOS Atack"/>
 <br />
 <br />
 </p>
