@@ -23,6 +23,13 @@ Confidentiality ensures that sensitive information is accessible only to authori
   - Strong passwords and authentication
   - Role-based access control (RBAC)
  
+<p align="center">
+Ref 2: Encription<br/>
+<img src="https://i.imgur.com/DwiYl1g.png" height="45%" width="45%" alt="CIA Triad"/>
+<br />
+<br />
+</p>
+ 
 Examples:
 - Encryption: Encrypting sensitive data (like emails or financial information) ensures that even if intercepted, the data remains unreadable without the decryption key.
 - Access Controls: User authentication mechanisms like passwords, biometrics, or multi-factor authentication (MFA) protect data from being accessed by unauthorized users.
@@ -42,13 +49,13 @@ Integrity refers to ensuring the accuracy and trustworthiness of data. This prin
   - Digital signatures
   - Version control systems
 
- 
-<p align="center">
+ <p align="center">
 Ref 2: Encription<br/>
-<img src="https://i.imgur.com/DwiYl1g.png" height="45%" width="45%" alt="CIA Triad"/>
+<img src="https://i.imgur.com/gbIebtj.png" height="45%" width="45%" alt="CIA Triad"/>
 <br />
 <br />
 </p>
+
  
 
 Examples:
