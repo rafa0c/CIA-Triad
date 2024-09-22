@@ -5,7 +5,7 @@
 # 🛡️ What is CIA Triad?
 
 <p align="center">
-Ref 1: CIA Triad<br/>
+*Ref 1: CIA Triad <br/>
 <img src="https://i.imgur.com/VQO9Yfh.png" height="45%" width="45%" alt="CIA Triad"/>
 <br />
 <br />
@@ -13,7 +13,7 @@ Ref 1: CIA Triad<br/>
 
 
 
-The **CIA Triad** is a fundamental model in cybersecurity, which stands for **Confidentiality**, **Integrity**, and **Availability**. These three principles form the foundation of any secure system. Each principle addresses specific aspects of data protection and security, helping to ensure that information systems are robust and secure from unauthorized access, manipulation, or downtime.
+The **_CIA Triad_** is a fundamental model in cybersecurity, which stands for **Confidentiality**, **Integrity**, and **Availability**. These three principles form the foundation of any secure system. Each principle addresses specific aspects of data protection and security, helping to ensure that information systems are robust and secure from unauthorized access, manipulation, or downtime.
 
 ## 🔐 Confidentiality
 Confidentiality ensures that sensitive information is accessible only to authorized individuals. Its main goal is to prevent unauthorized access or disclosure of data. Protecting confidentiality involves mechanisms such as encryption, access control, and authentication.
@@ -24,7 +24,7 @@ Confidentiality ensures that sensitive information is accessible only to authori
   - Role-based access control (RBAC)
  
 <p align="center">
-Ref 2: Encription<br/>
+*Ref 2: Encription* <br/>
 <img src="https://i.imgur.com/DwiYl1g.png" height="45%" width="45%" alt="CIA Triad"/>
 <br />
 <br />
@@ -50,7 +50,7 @@ Integrity refers to ensuring the accuracy and trustworthiness of data. This prin
   - Version control systems
 
  <p align="center">
-Ref 2: Encription<br/>
+Ref 2: Encription <br/>
 <img src="https://i.imgur.com/gbIebtj.png" height="45%" width="45%" alt="CIA Triad"/>
 <br />
 <br />
@@ -87,7 +87,7 @@ Threats to Availability:
   - DDoS protection
 
 <p align="center">
-Ref 2: Encription<br/>
+Ref 2: Encription <br/>
 <img src="https://i.imgur.com/RSfDnTF.png" height="45%" width="45%" alt="CIA Triad"/>
 <br />
 <br />
@@ -106,7 +106,7 @@ Examples:
 
 ### Summary
 
-The **CIA Triad** is a fundamental model in information security that focuses on three essential principles: **Confidentiality**, **Integrity**, and **Availability**. Confidentiality ensures that sensitive information is accessible only to authorized individuals, protecting it from unauthorized access or disclosure through methods like encryption and access controls. Integrity safeguards the accuracy and consistency of data, ensuring it cannot be altered or tampered with, using mechanisms such as hashing, digital signatures, and version control. Availability ensures that systems and data remain accessible and operational when needed, often through redundancy, backups, and failover systems. Together, these principles provide a comprehensive framework for securing information and maintaining its reliability, ensuring that it remains secure, trustworthy, and accessible in any scenario.
+The **_CIA Triad_** is a fundamental model in information security that focuses on three essential principles: **_Confidentiality_**, **_Integrity_**, and **_Availability_**. Confidentiality ensures that sensitive information is accessible only to authorized individuals, protecting it from unauthorized access or disclosure through methods like encryption and access controls. Integrity safeguards the accuracy and consistency of data, ensuring it cannot be altered or tampered with, using mechanisms such as hashing, digital signatures, and version control. Availability ensures that systems and data remain accessible and operational when needed, often through redundancy, backups, and failover systems. Together, these principles provide a comprehensive framework for securing information and maintaining its reliability, ensuring that it remains secure, trustworthy, and accessible in any scenario.
 
 <!--
 Ref 2: Virtual box  <br/>
