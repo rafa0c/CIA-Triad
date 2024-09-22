@@ -102,7 +102,7 @@ Examples:
 - High Availability Clusters: Grouping multiple servers or systems so if one fails, another takes over without disrupting the service.
 
 
-Conclusion
+**Conclusion**
 By adhering to the CIA Triad, organizations can develop strategies and defenses that ensure their systems are secure. Focusing on Confidentiality, Integrity, and Availability enables balanced protection across different dimensions of security.
 
 ---
