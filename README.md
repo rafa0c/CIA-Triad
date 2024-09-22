@@ -42,6 +42,13 @@ Integrity refers to ensuring the accuracy and trustworthiness of data. This prin
   - Digital signatures
   - Version control systems
  
+  <p align="center">
+Ref 1: CIA Triad<br/>
+<img src="https://i.imgur.com/DwiYl1g.png" height="45%" width="45%" alt="CIA Triad"/>
+<br />
+<br />
+</p>
+ 
 
 Examples:
 - Checksums and Hashing: Used to ensure that files haven’t been tampered with during transit. If the hash values match on both ends, the file is confirmed to be intact.
